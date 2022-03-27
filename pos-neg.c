@@ -14,4 +14,6 @@ int main()
     {
         printf("%d is negative.",num);
     }
+
+    return 0;
 }
